@@ -1,2 +1,2 @@
 # ecommerce
-Basic app
+Basic app using web developmemt tools and technologies
